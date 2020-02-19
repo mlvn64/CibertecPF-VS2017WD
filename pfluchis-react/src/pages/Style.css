@@ -1,0 +1,27 @@
+.tableCard {
+    padding-top:15px; 
+    padding-bottom:15px
+  }
+.Ocupado{
+    background-color: red;
+    border-color: red;
+}
+.pedidoCategoriaTableCard{
+  border-right-color:#3d7e9a; 
+  border-right-width:5px; 
+  width: 12rem
+}
+.pedidoListaCartasTableCard{
+  padding: 0px; 
+  text-decoration:none; 
+  color:white
+}
+.pedidoListaCartasNombreTableCard{
+  padding: 0px;
+}
+.pedidoTablePagos{
+  font-size:2rem;
+}
+.eliminarDetalle{
+  padding-left: 34px;
+}
